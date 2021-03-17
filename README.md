@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jessecomo
+- 👀 I’m interested in ... Cloud Computing and Business!
+- 🌱 I’m currently learning ... AWS
+- 💞️ I’m looking to collaborate on ... Anything!
+- 📫 How to reach me ... jessemcomo@gmail.com
