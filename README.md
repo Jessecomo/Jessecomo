@@ -8,8 +8,8 @@
 </div>
 
 ### 👨‍💻 About Me :
-- 👨‍🎓 Technology management undergraduate and small business owner passionate about growing business and gaining insights.
-- 💹 Currently: Furthering my knowledge of data and business analysis.
+- 👨‍🎓 Technology management undergraduate and small business owner passionate about business and gaining insights through data.
+- 💹 Currently: Furthering my knowledge of data analytics.
 - ✍ You can find my SQL Projects [here](https://github.com/Jessecomo/SQL-Portfolio-Projects).
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/jessecomo/)
 
