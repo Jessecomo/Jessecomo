@@ -55,12 +55,4 @@ A chatbot that lets you ask plain-English questions about CSV data. Explains str
 
 ---
 
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jessecomo&show_icons=true&hide_border=true&count_private=true" alt="Jesse's GitHub stats" />
-</p>
-
----
-
 <p align="center"><i>Open to full-time AI &amp; automation roles. Best way to reach me is <a href="https://www.linkedin.com/in/jessecomo/">LinkedIn</a>.</i></p>
